@@ -23,8 +23,12 @@ export default {
         '11xl' : '11rem',
         '12xl' : '12rem',
         '13xl' : '13rem',
-
-      }
+        '14xl' : '14rem',
+      },
+      padding: {
+        '128': '32rem',
+        '144': '36rem',
+      },
     },
   },
   plugins: [],

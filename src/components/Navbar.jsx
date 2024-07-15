@@ -6,7 +6,7 @@ import imagenBackground from '../assets/image/blur-nav.png'
 export const Navbar = () => {
     const title = "Canarias"
     return (
-    <nav className='bg-primary relative flex items-center justify-between px-48 container__navbar'>
+    <nav className='bg-primary relative flex items-center justify-center gap-24'>
         <div className='z-20'>
             <ItemNavbar title={"Sobre Mi"} link={"#sobreMi"}/>
         </div>
